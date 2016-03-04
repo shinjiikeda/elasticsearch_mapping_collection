@@ -1,4 +1,4 @@
-# elasticsearch_mapping_dictionaries
+# elasticsearch_mapping_collection
 
 elasticsearch mapping dictionary collection for japanese
 
