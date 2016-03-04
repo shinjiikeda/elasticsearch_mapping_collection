@@ -6,3 +6,6 @@ mapping_jp.txt - 半角ひらがな、カタカナ、全角英数字、異体字
 
 mapping_jp_kana_norm.txt - ひらがな->カタカナ辞書
 
+
+
+Copyright (C) 2016 Shinji Ikeda All Rights Reserved.
